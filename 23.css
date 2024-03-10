@@ -514,4 +514,11 @@ hr{
     width: 180px;
     height: 150px;
 }
-
+.shempuwala h1{
+    font-size: 25px; 
+    margin-left: 20px;
+}
+.shempuwala hr{
+    width: 780px; 
+    margin-left: 20px;
+}
